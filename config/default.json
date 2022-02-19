@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://chaersi:12345@devconnector.qjuvh.mongodb.net/DevConnectorDatabase?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://chaersi:12345@devconnector.qjuvh.mongodb.net/DevConnectorDatabase?retryWrites=true&w=majority",
+  "jwtSecret": "SuperSecretToken"
 }
