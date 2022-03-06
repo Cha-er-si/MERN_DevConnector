@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://chaersi:12345@devconnector.qjuvh.mongodb.net/DevConnectorDatabase?retryWrites=true&w=majority",
-  "jwtSecret": "SuperSecretToken"
+  "jwtSecret": "SuperSecretToken",
+  "githubClientId": "b0837c67dc8792725eb7",
+  "githubSecret": "63b4889b8b6078a6487e8944b4c47df094e6b2c8"
 }
